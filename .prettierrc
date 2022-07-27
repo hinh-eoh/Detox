@@ -1,9 +1,8 @@
 {
-	"arrowParens": "always",
-	"bracketSameLine": true,
+	"useTabs": false,
+	"tabWidth": 2,
 	"printWidth": 140,
 	"singleQuote": true,
-	"tabWidth": 2,
-	"trailingComma": "none",
-	"useTabs": false
+	"arrowParens": "always",
+	"trailingComma": "none"
 }

@@ -30,9 +30,5 @@ public interface DetoxErrors {
         public DetoxIllegalArgumentException(String message) {
             super(message);
         }
-
-        public DetoxIllegalArgumentException(Throwable cause) {
-            super(cause);
-        }
     }
 }

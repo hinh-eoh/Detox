@@ -99,7 +99,7 @@ ios/xcuserdata/
 *.dSYM.zip
 *.dSYM
 
-# Ruby / CocoaPods
+# CocoaPods
 #
 # We recommend against adding the Pods directory to your .gitignore. However
 # you should judge for yourself, the pros and cons are mentioned at:
@@ -107,7 +107,6 @@ ios/xcuserdata/
 #
 */*/ios/Pods/
 */*/ios/Podfile.lock
-*/*/vendor/bundle/
 
 # Carthage
 #
